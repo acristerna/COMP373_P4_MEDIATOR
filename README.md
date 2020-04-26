@@ -19,7 +19,7 @@ Before implementing the Mediator pattern, the problem that the program would hav
 In this case, the customer does not need to directly communicate with the restaurant, it would be up to the mediator, the delivery service, to make that communication. The intent of the Mediator Pattern then would be to "reduce the complexity and dependencies between tightly coupled objects communicating directly with one another".
 
 ## UML
-![](VisitorUML.png)
+![](Mediator.png)
 
 ## Applications Used 
 

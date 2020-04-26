@@ -23,7 +23,7 @@ In this case, the customer does not need to directly communicate with the restau
 
 ## Applications Used 
 
-* Draw.IO (UML Model)
+* Draw.io (UML Model)
 * Eclipse IDE For Java 
 
 ## Credit 
